@@ -15,12 +15,14 @@ def multiplication(num1, num2)
   4 * 30
 end
 
-def modulo(num1, num2)
+def modulo(num1, num2
+  34,5
 end
 
 def square_root(num)
+  81
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+    7 + (( 43 * 23 ) / 83)
 end
